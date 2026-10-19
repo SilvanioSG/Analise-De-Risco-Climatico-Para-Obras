@@ -56,12 +56,12 @@ EstudoMeteorologico/
 ├── AnaliseDeRiscoClimaticoParaObras.html    # Exportação interativa em HTML
 ├── dados_meteorologicos_brutos.csv          # Base bruta persistida extraída da API
 │
-├── ciclo_diurno_risco.png                  # Visualização: Distribuição de risco por hora
+├── ciclo_diurno_risco.png                   # Visualização: Distribuição de risco por hora
 ├── sazonalidade_mensal_alerta.png           # Visualização: Sazonalidade de alertas por mês
 ├── heatmap_risco_mes_hora.png               # Visualização: Matriz de calor Mês x Hora
-├── feature_importance_xgboost.png          # Visualização: Importância de variáveis no modelo ML
-│
-└── SG_Site.png                              # Logotipo e identidade visual do projeto
+├── feature_importance_xgboost.png           # Visualização: Importância de variáveis no modelo ML
+├── SG_Site.png                              # Logotipo e identidade visual do projeto
+└── Link para o projeto online               # https://silvaniosg.github.io/Analise-De-Risco-Climatico-Para-Obras/                          
 ```
 
 ---
