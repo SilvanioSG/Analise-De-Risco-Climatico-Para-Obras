@@ -99,6 +99,7 @@ A saída gerada pelo modelo permite transformar dados meteorológicos em decisõ
 **Silvanio Gois**  
 *Gestor de Operações e Negócios Orientado a Dados*
 
+* **Estudo online:** [Acesso ao Estudo](https://silvaniosg.github.io/Analise-De-Risco-Climatico-Para-Obras/)
 * **Website:** [www.silvaniogois.com.br](https://www.silvaniogois.com.br)
 * **LinkedIn:** [linkedin.com/in/silvanio-gois](https://www.linkedin.com/in/silvanio-gois)
 * **GitHub:** [github.com/SilvanioSG](https://github.com/SilvanioSG)
